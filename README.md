@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer Candidate
 -----------------------
 
-I have 20 years of experience in different fields. After 20 years I made a decision to change my career path towards IT. I am a passionate learner and try to go on IT field.
+I have 20 years of experience in different fields. After 20 years I made a decision to change my career path towards IT. 
+I am a passionate learner and try to go on IT field.
 
 * 🌍  I'm based in Brussels, Belgium
 * 🧠  I'm learning Java and Rust
