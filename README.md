@@ -5,6 +5,7 @@ Web Developer Candidate
 -----------------------
 
 I have 20 years of experience in different fields. After 20 years I made a decision to change my career path towards IT. 
+
 I am a passionate learner and try to go on IT field.
 
 * 🌍  I'm based in Brussels, Belgium
