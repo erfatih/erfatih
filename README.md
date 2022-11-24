@@ -7,7 +7,6 @@ Web Developer Candidate
 I have 20 years of experience in different fields. After 20 years I made a decision to change my career path towards IT. I am a passionate learner and try to go on IT field.
 
 * 🌍  I'm based in Brussels, Belgium
-* ✉️  You can contact me at [erfatih@hotmail.com](mailto:erfatih@hotmail.com)
 * 🧠  I'm learning Java and Rust
 
 ### Skills
@@ -28,8 +27,8 @@ I have 20 years of experience in different fields. After 20 years I made a decis
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/erfatih"><img src="https://github-readme-stats.vercel.app/api?username=erfatih&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="erfatih's GitHub stats" /></a>
+<a href="http://www.github.com/erfatih"><img src="https://github-readme-stats.vercel.app/api?username=erfatih&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="erfatih's GitHub stats" /></a>
 
-<a href="http://www.github.com/erfatih"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erfatih&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/erfatih"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erfatih&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/erfatih" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfatih&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/erfatih" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfatih&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
