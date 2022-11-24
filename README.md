@@ -1,17 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fatih ER
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Fatih ER
 ================================================================================================================================
 
 Web Developer Candidate
 -----------------------
 
-* I have 20 years of experience in different fields other than IT.
-* I decided to change my career path towards IT.
-* I am a passionate learner
-* I want to go further on IT field.
-
+I have 20 years of work experience in different fields other than IT.
+I decided to change my career path towards IT.
+I am a passionate learner.
+I want to go further in IT field.
 
 * 🌍  I'm based in Brussels, Belgium
-* 🧠  I'm learning Java and Rust
+* 🧠  I'm learning Java, JS and Rust
 
 ### Skills
 
@@ -19,6 +18,7 @@ Web Developer Candidate
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
 
