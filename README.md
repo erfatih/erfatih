@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Fatih ER.
 ================================================================================================================================
 
-Web Developer Candidate
 -----------------------
 
 - I have 20 years of work experience in different fields other than IT.
